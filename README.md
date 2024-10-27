@@ -18,9 +18,6 @@ This project, completed at the International Institute of Information Technology
 3. [Feature Extraction Techniques](#feature-extraction-techniques)
 4. [Models Used](#models-used)
 5. [Results](#results)
-6. [Installation](#installation)
-7. [Usage](#usage)
-8. [Conclusion](#conclusion)
 
 ## Dataset
 
